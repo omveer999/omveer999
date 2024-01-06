@@ -6,7 +6,7 @@ When I'm not coding, you can find me exploring the latest technologies, diving i
 
 # 💼 Work Experience
 
-## Associate Software Engineer at Rakuten Symphony India Pvt. Ltd.
+## Software Engineer at Rakuten Symphony India Pvt. Ltd.
 - *Indore, Madhya Pradesh*
 - *February 2022 - Present*
   
