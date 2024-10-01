@@ -8,7 +8,7 @@ When I'm not coding, you can find me exploring the latest technologies, diving i
 
 ## Sr. Software Engineer at BNG Advanced Mobile Solutions Pvt Ltd
 - *Gurgram, Haryana*
-- *February 2022 - May 2024*
+- *February 2022 - Present*
   
   - Developed a game subscription and tournament platform enabling users to play with others or bots when no opponents are available.
   - Implemented an intuitive interface for streamlined game selection and subscription processes.
