@@ -13,7 +13,6 @@ When I'm not coding, you can find me exploring the latest technologies, diving i
   - Developed a game subscription and tournament platform enabling users to play with others or bots when no opponents are available.
   - Implemented an intuitive interface for streamlined game selection and subscription processes.
   - Collaborated with the design team to integrate tournament functionality, ensuring a seamless user experience. The platform was architected to accommodate a large user base and myriad concurrent games.
-  - Strong grasp of DevOps tools; deployed an inventory manager microservice and databases on Kubernetes clusters using Helm Chart and Robin.
 
   **Tech Stack:**
   Java, Spring Boot, MySQL, Git, Microservices, Elasticsearch, KAFKA, Logstash, AWS
