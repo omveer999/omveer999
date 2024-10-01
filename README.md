@@ -6,9 +6,22 @@ When I'm not coding, you can find me exploring the latest technologies, diving i
 
 # 💼 Work Experience
 
+## Sr. Software Engineer at BNG Advanced Mobile Solutions Pvt Ltd
+- *Gurgram, Haryana*
+- *February 2022 - May 2024*
+  
+  - Developed a game subscription and tournament platform enabling users to play with others or bots when no opponents are available.
+  - Implemented an intuitive interface for streamlined game selection and subscription processes.
+  - Collaborated with the design team to integrate tournament functionality, ensuring a seamless user experience. The platform was architected to accommodate a large user base and myriad concurrent games.
+  - Strong grasp of DevOps tools; deployed an inventory manager microservice and databases on Kubernetes clusters using Helm Chart and Robin.
+
+  **Tech Stack:**
+  Java, Spring Boot, MySQL, Git, Microservices, Elasticsearch, KAFKA, Logstash, AWS
+
+
 ## Software Engineer at Rakuten Symphony India Pvt. Ltd.
 - *Indore, Madhya Pradesh*
-- *February 2022 - Present*
+- *February 2022 - May 2024*
   
   - Successfully executed POCs for migrating Rakuten's Inventory Manager module to a graph database-based microservice, resulting in a highly scalable and efficient system.
   - Reduced onboarding time for new devices in the Network Inventory from 15 to just 1 day by switching from a manual process.
